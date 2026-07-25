@@ -1,3 +1,5 @@
+
+
 Readme · MD
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Parth%20Kulkarni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20GenAI%20%26%20RAG&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+Gemini+%7C+ChromaDB;3rd+Year+CE+%40+RSCOE+Pune+(CGPA+8.11);Open+to+AI%2FML+%2F+GenAI+Internships" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CGPA-8.11%2F10-7C3AED?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Location-Pune%2C%20India-4C1D95?style=for-the-badge&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
 <br/><br/>
@@ -116,6 +118,8 @@ AICTE <br/> <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML%20V
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kulkarniparth30&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7"/> </div> <br/>
 🟣 Contribution Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarniparth30&theme=react-dark&bg_color=1a1a2e&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/> </div> <br/>
+🟣 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/kulkarniparth30/kulkarniparth30/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
 🟣 Current Focus
 yaml
 learning:
@@ -125,10 +129,8 @@ learning:
 
 building:
   - LangGraph-based agentic chatbot (persistent SQLite storage, multi-tool, Streamlit frontend)
-  - Structured 4-month internship prep track
 
 exploring:
-  - GATE DA 2027 (dual-purpose: DS/AIML interview overlap)
   - Advanced RAG architectures & retrieval evaluation
 
 open_to:
@@ -145,5 +147,3 @@ open_to:
 "Grounded in retrieval, driven by agency — building AI that reasons before it answers."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> </div>
-
-Authenticate to export to Google Drive
