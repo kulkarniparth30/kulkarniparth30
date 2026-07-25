@@ -91,7 +91,7 @@ Recognition	Details
 🎖️ OSDHack 2026 (On-Device AI)	Built StudyMind AI — offline in-browser RAG assistant
 📄 Publication Under Review	Co-authored ML-based resume evaluation system (85% accuracy, 5,000+ resumes)
 📊 Kaggle Impact	5+ datasets, 10+ notebooks — one dataset with 9,400+ views, 2,700+ downloads
-💻 Competitive Programming	215+ DSA problems solved (LeetCode, GeeksforGeeks)
+💻 Competitive Programming	DSA problems solved across LeetCode & GeeksforGeeks — arrays, trees, graphs, DP, greedy, DSU
 🧩 5+ Hackathons	DevClash 2026, IBM Dev Day: AI Demystified, IGNISIA, OSDHack, and more
 👥 Core Member	ML & Data Science Team, Coding Club — RSCOE
 </div> <br/>
@@ -105,9 +105,11 @@ AICTE <br/> <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML%20V
 <br/>
 🟣 Coding Profiles
 <div align="center">
-<a href="https://leetcode.com/parthkulkarni30"><img src="https://img.shields.io/badge/LeetCode-215%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://kaggle.com/kulkarniparth30"><img src="https://img.shields.io/badge/Kaggle-5%2B%20Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://github.com/kulkarniparth30"><img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://leetcode.com/parthkulkarni30"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://kaggle.com/kulkarniparth30"><img src="https://img.shields.io/badge/Kaggle-5%2B%20Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://github.com/kulkarniparth30"><img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div> <br/>
+🟣 LeetCode Stats
+<div align="center"> <img src="https://leetcard.jacoblin.cool/parthkulkarni30?theme=dark&font=baloo2&ext=heatmap&bg_color=1a1a2e&text_color=c9d1d9&extra_color=A78BFA&border_color=8B5CF6"/> </div> <br/>
 🟣 GitHub Analytics
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=kulkarniparth30&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kulkarniparth30&theme=radical&hide_border=true&background=1a1a2e&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniparth30&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9d1d9"/> </div> <br/>
 🟣 GitHub Trophies
@@ -143,3 +145,5 @@ open_to:
 "Grounded in retrieval, driven by agency — building AI that reasons before it answers."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> </div>
+
+Authenticate to export to Google Drive
